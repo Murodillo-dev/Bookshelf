@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.entry-data{
+    width: 100%;
+    /* background-color: teal; */
+    margin-top: 15px;
+    outline: none;
+    padding: 0 10px;
+    box-sizing: border-box;
+    border-bottom: 2px solid gray;
+}
