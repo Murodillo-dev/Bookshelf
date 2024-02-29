@@ -1,40 +1,22 @@
 {
   "book": [
     {
-      "title": "Murodillo",
-      "cover": "45646",
-      "page": "465465",
-      "published": "54646",
-      "isbn": "456",
-      "author": "46",
+      "title": "sadsasa",
+      "cover": "dsadsfsd",
+      "page": "456",
+      "published": "sdasd",
+      "isbn": "sdasdas",
+      "author": "d54asdsad",
       "id": 1
     },
     {
-      "title": "Robiya",
-      "cover": "545656",
-      "page": "kjkj",
-      "published": "kjhjk",
-      "isbn": "h",
-      "author": "kjh",
+      "title": "sdasdas",
+      "cover": "kjkj",
+      "page": "jklkl",
+      "published": "jkljkl",
+      "isbn": "jkljkl",
+      "author": "jhjkj",
       "id": 2
-    },
-    {
-      "title": "Nasrulloh",
-      "cover": "sdfsd",
-      "page": "sdfsd",
-      "published": "sdfsdf",
-      "isbn": "sdfds",
-      "author": "5465",
-      "id": 3
-    },
-    {
-      "title": "Jasurbek",
-      "cover": "sddsf",
-      "page": "sdfsd",
-      "published": "sdfsd",
-      "isbn": "5466",
-      "author": "sdfsdfsd",
-      "id": 4
     }
   ]
 }
