@@ -1,22 +1,3 @@
 {
-  "book": [
-    {
-      "title": "sadsasa",
-      "cover": "dsadsfsd",
-      "page": "456",
-      "published": "sdasd",
-      "isbn": "sdasdas",
-      "author": "d54asdsad",
-      "id": 1
-    },
-    {
-      "title": "sdasdas",
-      "cover": "kjkj",
-      "page": "jklkl",
-      "published": "jkljkl",
-      "isbn": "jkljkl",
-      "author": "jhjkj",
-      "id": 2
-    }
-  ]
+  "book": []
 }
