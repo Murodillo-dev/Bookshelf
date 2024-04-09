@@ -16,7 +16,7 @@ const Create = () => {
   const [aftor, setAftor] = useState("");
 
   function save() {
-    if (nomi!=='' && link!=='' && safiha!=='' && yil!==''&&isbn!=='' && aftor!=='') {
+    if (nomi !== '' && link !== '' && safiha !== '' && yil !== '' && isbn !== '' && aftor !== '') {
       axios
         .post(url, {
           title: nomi,
@@ -33,7 +33,7 @@ const Create = () => {
     }
   }
 
-  function exit(){
+  function exit() {
     setNewData(false)
   }
 
@@ -84,18 +84,18 @@ const Create = () => {
       </button>
 
       <ToastContainer
-          position="bottom-right"
-          autoClose={1000}
-          hideProgressBar={false}
-          newestOnTop={false}
-          closeOnClick
-          rtl={false}
-          pauseOnFocusLoss
-          draggable
-          pauseOnHover
-          theme="light"
-          transition:Bounce
-        />
+        position="bottom-right"
+        autoClose={1000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        theme="light"
+        transition:Bounce
+      />
     </div>
   );
 };

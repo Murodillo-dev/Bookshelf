@@ -60,7 +60,7 @@ const App = () => {
       axios.get(url).then((response) => {
         setApi(response.data);
       });
-    } 
+    }
 
     else {
       const sortedItem = api.filter((value) =>
