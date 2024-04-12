@@ -60,9 +60,7 @@ const App = () => {
       axios.get(url).then((response) => {
         setApi(response.data);
       });
-    }
-
-    else {
+    } else {
       const sortedItem = api.filter((value) =>
         value.title.toLowerCase().includes(searchItem.toLowerCase())
       );
